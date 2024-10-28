@@ -1550,5 +1550,6 @@
     "moldovaLanding.HowToPurchase.step4": "Назначьте ваучеры",
     "moldovaLanding.ProgramSummary.downloadGuide": "Скачайте руководство по использованию «Ваучера для поденных работников»",
     "moldovaLanding.ProgramSummary.contactUs": "Свяжитесь с нами, если у вас есть вопросы",
-    "moldovaLanding.ProgramSummary.buttonCta": "Скачать руководство"
+    "moldovaLanding.ProgramSummary.buttonCta": "Скачать руководство",
+    "core.LoginPage.howToUse": "Руководство пользователя"
 }
