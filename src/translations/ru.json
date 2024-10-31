@@ -1350,7 +1350,7 @@
     "workerVoucher.acquire.confirmation": "Подтверждая покупку ваучера, я подтверждаю, что прочитал и согласен с условиями и правилами.",
     "workerVoucher.assign.confirmation": "Подтверждая присвоение ваучера, я подтверждаю, что прочитал и согласен с условиями и правилами.",
     "workerVoucher.vouchers.required": "Для продолжения необходимо заполнить все поля",
-    "workerVoucher.WorkerMultiplePicker.placeholder": "Поиск работника",
+    "workerVoucher.WorkerMultiplePicker.placeholder": "Поиск по IDNP, имени или фамилии работника",
     "workerVoucher.WorkerMultiplePicker.underThreshold": "Введите не менее 3 символов: IDNP, Имени или Фамилии Работника",
     "workerVoucher.WorkerMultiplePicker.noOptions": "Не найдено результатов",
     "workerVoucher.WorkerMultiplePicker.checkbox.label": "Показать только работников, с которыми я работал раньше",
@@ -1550,5 +1550,8 @@
     "moldovaLanding.ProgramSummary.downloadGuide": "Скачайте руководство по использованию «Ваучера для поденных работников»",
     "moldovaLanding.ProgramSummary.contactUs": "Свяжитесь с нами, если у вас есть вопросы",
     "moldovaLanding.ProgramSummary.buttonCta": "Скачать руководство",
-    "core.LoginPage.howToUse": "Руководство пользователя"
+    "core.LoginPage.howToUse": "Руководство пользователя",
+    "workerVoucher.VoucherAcquirementForm.form.moreInfo": "Решите, хотите ли вы получить безличные или личные ваучеры. Если вы выберете безличные ваучеры, вы сможете назначить их работникам позже. Если вы выберете личные ваучеры, вы сможете сразу назначить их конкретному работнику. Подтвердите получение, используя кнопку в правом верхнем углу.",
+    "workerVoucher.VoucherAcquirementSpecificWorker.form.moreInfo": "Выберите всех работников, которым вы хотите приобрести ваучеры. Определите сроки действия ваучеров и подтвердите получение, используя кнопку в правом верхнем углу.",
+    "workerVoucher.VoucherAcquirementGenericVoucher.form.moreInfo": "Укажите количество ваучеров, которые вы хотите получить, и подтвердите получение, используя кнопку в правом верхнем углу."
 }
