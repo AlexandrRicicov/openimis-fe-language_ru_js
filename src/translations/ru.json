@@ -1309,6 +1309,7 @@
     "workerVoucher.status.EXPIRED": "ПРОСРОЧЕННЫЙ",
     "workerVoucher.status.CANCELED": "ОТМЕНЕН",
     "workerVoucher.status.CLOSED": "ЗАКРЫТ",
+    "workerVoucher.status.PRINTED": "ПЕЧАТАНО",
     "workerVoucher.WorkersPage.addAction": "Добавить Работника",
     "workerVoucher.WorkerSearcher.exportClose": "Закрыть",
     "workerVoucher.VoucherDetailsPage.title": "Ваучер работника - {code}",
@@ -1581,5 +1582,9 @@
     "workerVoucher.SystemData.payment.unpaid": "Не оплачено",
     "workerVoucher.WorkersPage.uploadAction": "Загрузить списком",
     "workerVoucher.GroupSearcher.infoButtonContent": "Создавайте группы работников для конкретных периодов и целей. Это поможет вам легче управлять активными сотрудниками в указанный период.",
-    "workerVoucher.GroupWorkerManagePanel.inputTooltip": "Введите один из следующих элементов: IDNP, Имя или Фамилию работника."
+    "workerVoucher.GroupWorkerManagePanel.inputTooltip": "Введите один из следующих элементов: IDNP, Имя или Фамилию работника.",
+    "workerVoucher.VoucherGenericPrintModal.title": "Печать Неперсонализированного Ваучера",
+    "workerVoucher.VoucherGenericPrintModal.description": "Вы собираетесь распечатать неперсонализированный ваучер. После печати ваучер будет помечен как ПЕЧАТАНО, и его нельзя будет использовать в системе. Это действие является постоянным и не может быть отменено.",
+    "workerVoucher.VoucherGenericPrintModal.checkbox": "Подтверждаю, что хочу распечатать неперсонализированный ваучер и понимаю его последствия.",
+    "workerVoucher.VoucherGenericPrintModal.confirm": "Продолжить"
 }
