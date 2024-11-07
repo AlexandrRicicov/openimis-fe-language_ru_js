@@ -1586,5 +1586,7 @@
     "workerVoucher.VoucherGenericPrintModal.title": "Печать Неперсонализированного Ваучера",
     "workerVoucher.VoucherGenericPrintModal.description": "Вы собираетесь распечатать неперсонализированный ваучер. После печати ваучер будет помечен как ПЕЧАТАНО, и его нельзя будет использовать в системе. Это действие является постоянным и не может быть отменено.",
     "workerVoucher.VoucherGenericPrintModal.checkbox": "Подтверждаю, что хочу распечатать неперсонализированный ваучер и понимаю его последствия.",
-    "workerVoucher.VoucherGenericPrintModal.confirm": "Продолжить"
+    "workerVoucher.VoucherGenericPrintModal.confirm": "Продолжить",
+    "core.Table.nextPage": "Следующая страница",
+    "core.Table.previousPage": "Предыдущая страница"
 }
