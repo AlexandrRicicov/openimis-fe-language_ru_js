@@ -1574,6 +1574,7 @@
     "workerVoucher.SystemData.voucher.assigned": "Назначены",
     "workerVoucher.SystemData.voucher.expired": "Истекшие",
     "workerVoucher.SystemData.voucher.cancelled": "Отмененные",
+    "workerVoucher.SystemData.voucher.printed": "Напечатанные",
     "workerVoucher.SystemData.payment.title": "Платежи",
     "workerVoucher.SystemData.payment.paid": "Оплачено",
     "workerVoucher.SystemData.payment.unpaid": "Не оплачено",
