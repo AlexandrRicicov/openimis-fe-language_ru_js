@@ -1586,5 +1586,6 @@
     "workerVoucher.VoucherGenericPrintModal.checkbox": "Подтверждаю, что хочу распечатать неперсонализированный ваучер и понимаю его последствия.",
     "workerVoucher.VoucherGenericPrintModal.confirm": "Продолжить",
     "core.Table.nextPage": "Следующая страница",
-    "core.Table.previousPage": "Предыдущая страница"
+    "core.Table.previousPage": "Предыдущая страница",
+    "workerVoucher.AdminAndInspectorDashboard.title": "Здравствуйте, {user}!"
 }
