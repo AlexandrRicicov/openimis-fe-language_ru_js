@@ -1272,6 +1272,7 @@
     "workerVoucher.menu.voucherAssignment": "Выдача ваучеров",
     "workerVoucher.menu.priceManagement": "Управление ценой ваучера",
     "workerVoucher.menu.mobileAppPassword": "Пароль мобильного приложения",
+    "workerVoucher.menu.report": "Реестр учёта поденных работников",
     "workerVoucher.searcherResultsTitle": "{workerVouchersTotalCount} Выявленные ваучеры",
     "workerVoucher.WorkerSearcher.resultsTitle": "{workersTotalCount} Всего работников",
     "workerVoucher.code": "Код",
@@ -1453,5 +1454,14 @@
     "policyHolder.selectEconomicUnit.logout": "Выйти",
     "policyHolder.EconomicUnitChangeButton.label": "Сменить компанию",
     "Data de inceput": "Дата начала",
-    "Data de încheiere": "Дата окончания"
+    "Data de încheiere": "Дата окончания",
+    "workerVoucher.report.description": "Генерация реестра учёта поденных работников в формате Excel с настраиваемыми фильтрами",
+    "workerVoucher.report.selectedCompany": "Выбранная компания",
+    "workerVoucher.report.thisMonth": "Этот месяц",
+    "workerVoucher.report.lastMonth": "Прошлый месяц",
+    "workerVoucher.WorkerVoucherReport.dateFrom": "Дата с",
+    "workerVoucher.WorkerVoucherReport.dateTo": "Дата по",
+    "workerVoucher.WorkerVoucherReport.insureeChfId": "IDNP Работника",
+    "workerVoucher.WorkerVoucherReport.policyholderCode": "Фискальный код работодателя",
+    "workerVoucher.generateReport": "Генерировать Отчет"
 }
