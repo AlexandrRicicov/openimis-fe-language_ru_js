@@ -1273,6 +1273,7 @@
     "workerVoucher.menu.priceManagement": "Управление ценой ваучера",
     "workerVoucher.menu.mobileAppPassword": "Пароль мобильного приложения",
     "workerVoucher.menu.report": "Реестр учёта поденных работников",
+    "workerVoucher.Shortcuts.report": "Реестр учёта поденных работников",
     "workerVoucher.searcherResultsTitle": "{workerVouchersTotalCount} Выявленные ваучеры",
     "workerVoucher.WorkerSearcher.resultsTitle": "{workersTotalCount} Всего работников",
     "workerVoucher.code": "Код",
