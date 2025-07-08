@@ -1313,6 +1313,7 @@
     "workerVoucher.worker": "Работник",
     "workerVoucher.workers": "Работники",
     "workerVoucher.worker.chfId": "IDNP",
+    "workerVoucher.worker.regularIdHeader": "ID работника - {regularId}",
     "workerVoucher.worker.assignedVouchers": "Ваучеры в этом году",
     "workerVoucher.worker.warning.limit": "ПРЕДУПРЕЖДЕНИЕ",
     "workerVoucher.worker.warning.limitReached": "Работник достиг максимального количества назначенных ваучеров на этот календарный год, что составляет {limit}.",
